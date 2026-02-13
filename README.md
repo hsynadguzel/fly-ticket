@@ -1,4 +1,4 @@
-# Fly Ticket ✈️
+# Fly Ticket 
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -15,14 +15,14 @@
 
 The project is built following **Clean Architecture** principles to ensure scalability, testability, and maintainability.
 
-### 📱 Screenshots
+### Screenshots
 
 <p align="center">
   <img src="image-1.png" width="45%" alt="Home Screen" />
   <img src="image-2.png" width="45%" alt="Flight Details" />
 </p>
 
-### ✨ Key Features
+### Key Features
 
 - **Modern & Premium UI**: A visually stunning interface with glassmorphism effects, smooth gradients, and custom micro-animations.
 - **Flight Search**: Advanced search functionality with date pickers and route selection.
@@ -31,7 +31,7 @@ The project is built following **Clean Architecture** principles to ensure scala
 - **Profile Management**: customizable profile settings, dark mode support, and membership status tracking.
 - **Custom Navigation**: A unique, custom-designed bottom navigation bar.
 
-### 🏗 Architecture
+### Architecture
 
 This project strictly follows **Clean Architecture** combined with **Feature-First** packaging.
 
@@ -50,7 +50,7 @@ lib/
   └── main.dart            # Application entry point
 ```
 
-### 🚀 Getting Started
+### Getting Started
 
 1.  **Clone the repository**:
     ```bash
@@ -77,7 +77,7 @@ lib/
 
 Proje, ölçeklenebilirlik, test edilebilirlik ve sürdürülebilirlik sağlamak için **Clean Architecture** (Temiz Mimari) prensiplerine uygun olarak geliştirilmiştir.
 
-### 📱 Ekran Görüntüleri
+### Ekran Görüntüleri
 
 <p align="center">
   <img src="image-1.png" width="45%" alt="Ana Ekran" />
@@ -93,7 +93,7 @@ Proje, ölçeklenebilirlik, test edilebilirlik ve sürdürülebilirlik sağlamak
 - **Profil Yönetimi**: Özelleştirilebilir profil ayarları, karanlık mod desteği ve üyelik durumu takibi.
 - **Özel Navigasyon**: Benzersiz, özel tasarlanmış alt navigasyon çubuğu.
 
-### 🏗 Mimari
+### Mimari
 
 Bu proje, **Feature-First** (Özellik Öncelikli) paketleme yapısı ile birleştirilmiş **Clean Architecture** prensiplerini sıkı bir şekilde takip eder.
 
@@ -112,7 +112,7 @@ lib/
   └── main.dart            # Uygulama giriş noktası
 ```
 
-### 🚀 Başlarken
+### Başlarken
 
 1.  **Depoyu klonlayın**:
     ```bash
