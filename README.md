@@ -18,8 +18,8 @@ The project is built following **Clean Architecture** principles to ensure scala
 ### Screenshots
 
 <p align="center">
-  <img src="image-1.png" width="45%" alt="Home Screen" />
-  <img src="image-2.png" width="45%" alt="Flight Details" />
+  <img src="image-1.png" width="60%" alt="Home Screen" />
+  <img src="image-2.png" width="60%" alt="Flight Details" />
 </p>
 
 ### Key Features
